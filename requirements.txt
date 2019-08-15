@@ -1,0 +1,22 @@
+-------------------
+Required Components
+-------------------
+The parts needed in order to build this Arduino Robot are listed below. You can click the link in front of each part to buy the exact components used for this video.
+
+Robot Chassis Kit ? http://bit.ly/RobotChassisB
+
+Arduino Uno ? https://educ8s.tv/part/ArduinoUno
+
+Motor Shield ? http://bit.ly/MotorShield
+
+SG90 Servo  ? https://educ8s.tv/part/SG90
+
+Ultrasonic Sensor ?  https://educ8s.tv/part/HCSR04
+
+Switch ?  http://bit.ly/Switch10PCS
+
+100nf Capacitors ? https://educ8s.tv/part/CeramicCapacitors
+
+300µF Capacitors ? https://educ8s.tv/part/ElectrolyticCapacitors
+
+Wires ?  https://educ8s.tv/part/Wires
